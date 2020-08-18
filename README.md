@@ -2,5 +2,5 @@ Basic Informational Site as part of the Odin Project [curriculum](https://www.th
 
 Skills used:
 
-* HTML and NodeJS
+* HTML/NodeJS/ExpressJS
 
